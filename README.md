@@ -1,1 +1,2 @@
-# fr-repo
+# This is my first repo
+hi
